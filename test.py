@@ -2,7 +2,7 @@ import time
 import random
 
 print("Sleeping...")
-time.sleep(3) # Switched in a branch
+time.sleep(4) # Switched in Web editor
 print("Awake")
 print(random.randint(0, 10))
 time.sleep(1) # Added via Git web editor
